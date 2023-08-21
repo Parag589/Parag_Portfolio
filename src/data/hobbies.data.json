@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "src": "/images/hobbies/ttt.png",
+        "title": "Table Tennis",
+        "description": "Table tennis, or ping pong, played from class 9 onward, is a dynamic indoor sport where players hit a lightweight ball across a table divided by a net. It cultivates agility, coordination, and strategy. From this age, students acquire hand-eye skills for serves, spins, and tactics. The game fosters strategic thinking, sportsmanship, and camaraderie. It's a physically active outlet, promoting well-being in a sedentary era. Starting early also builds lasting social connections.",
+        "width": 300,
+        "height": 300
+    },
+    {
+        "id": 1,
+        "src": "/images/hobbies/texhnologies.jpg",
+        "title": "Exploring New Technologies",
+        "description": "Exploring new technologies has become my favorite hobby, a journey where innovation and curiosity intertwine. With each new gadget, software, or concept I delve into, I uncover a realm of possibilities waiting to be grasped. Whether it's coding an app that simplifies everyday tasks or assembling intricate drones that take flight with a hum, the thrill of understanding and harnessing the latest tech is unparalleled. This hobby doesn't just satiate my fascination, it fuels my creative drive and keeps me at the forefront of an ever-evolving digital landscape.",
+        "width": 350,
+        "height": 300
+    }
+   
+]
